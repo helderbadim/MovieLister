@@ -4,58 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fff5a74-1fae-40b7-9aa4-5a66300a1118" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../HelderCosta_MovieLister.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelderCosta_MovieLister.rar" beforeDir="false" afterPath="$PROJECT_DIR$/../HelderCosta_MovieLister.rar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieLister/src/app/Models/card.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLister/src/app/Models/card.model.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieLister/src/app/app.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLister/src/app/app.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieLister/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLister/src/app/app.routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieLister/src/app/components/Cards/card/card.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLister/src/app/components/Cards/card/card.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieLister/src/app/components/Cards/card/card.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLister/src/app/components/Cards/card/card.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieLister/src/app/components/Cards/cards/cards.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLister/src/app/components/Cards/cards/cards.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieLister/src/app/components/Cards/cards/cards.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLister/src/app/components/Cards/cards/cards.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieLister/src/app/components/MasterPage/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLister/src/app/components/MasterPage/header/header.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieLister/src/app/components/MasterPage/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLister/src/app/components/MasterPage/header/header.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieLister/src/app/services/card.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLister/src/app/services/card.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Mercedes/Mercedes/src/app/components/home-components/cards/cards.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mercedes/Mercedes/src/app/components/home-components/cards/cards.component.ts" afterDir="false" />
-    </list>
+    <list default="true" id="e0231448-669f-414a-85d2-b3abb427db7e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
+  &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2u0VLTrG16FTllB21QhZ7MfyNz3" />
+  <component name="ProjectId" id="2txSE5LhgQ6rLbrBi6O6OLs3xnF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/helde/OneDrive/Cesae_Front-end_Course/Front_End_2024/Angular/HelderCosta_MovieLister/MovieLister&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\helde\\OneDrive\\Cesae_Front-end_Course\\Front_End_2024\\Angular\\HelderCosta_MovieLister\\MovieLister\\MovieLister\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/helde/Downloads/complete-javascript-course-master/complete-javascript-course-master/09-Data-Structures-Operators/starter",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "watcher.settings",
+    "ts.external.directory.path": "C:\\Users\\helde\\OneDrive\\Cesae_Front-end_Course\\Front_End_2024\\Angular\\HelderCosta_MovieLister\\MovieLister\\MovieLister\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\helde\OneDrive\Cesae_Front-end_Course\Front_End_2024\Angular\HelderCosta_MovieLister\MovieLister\MovieLister\src\app\services" />
-    </key>
+}]]></component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -67,14 +62,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5fff5a74-1fae-40b7-9aa4-5a66300a1118" name="Changes" comment="" />
-      <created>1741385423234</created>
+      <changelist id="e0231448-669f-414a-85d2-b3abb427db7e" name="Changes" comment="" />
+      <created>1741292117391</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1741385423234</updated>
-      <workItem from="1741385424426" duration="1885000" />
-      <workItem from="1742498815862" duration="2515000" />
-      <workItem from="1742583925686" duration="3361000" />
+      <updated>1741292117391</updated>
+      <workItem from="1741292118567" duration="3191000" />
+      <workItem from="1741892822647" duration="6289000" />
+      <workItem from="1741979076588" duration="13588000" />
     </task>
     <servers />
   </component>
