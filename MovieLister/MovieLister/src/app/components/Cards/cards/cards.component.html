@@ -1,0 +1,23 @@
+<div class="container mt-5 mb-5">
+  <h1 class="mt-3">Movies</h1>
+  <div class="row">
+    <div class="col-4 mx-auto">
+      <form>
+      <mdb-form-control>
+        <input name="search" [(ngModel)]="search" mdbInput type="text" id="form1" class="form-control" />
+        <label mdbLabel class="form-label" for="form1">Search</label>
+      </mdb-form-control>
+      <button (click)='getMovies()' type="button" class="btn btn-primary w-100 mt-2">Search</button>
+    </form>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-4" *ngFor="let movie of cards">
+      <app-card
+      [title]="movie.Title"
+      [poster]="movie.Poster"
+      [year]="movie.Year"
+      />
+    </div>
+  </div>
+</div>

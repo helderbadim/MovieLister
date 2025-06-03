@@ -1,0 +1,16 @@
+<div class="card mt-5">
+
+  <div class="bg-image hover-overlay" mdbRipple rippleColor="light">
+    <img [src]="poster" class="img-fluid card-img-top" style="height: 600px; object-fit: cover;" />
+    <a href="#!">
+      <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+    </a>
+  </div>
+
+  <div class="card-body d-flex flex-column">
+    <h5 class="card-title">{{title}}</h5>
+    <p class="card-text text-muted">{{year}}</p>
+    <p class="card-text flex-grow-1">{{description}}</p>
+  </div>
+</div>
+
